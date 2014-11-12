@@ -11,7 +11,8 @@ eztv.it##div#header_logo
 ilfattoquotidiano.it##div#home_inner_header
 lwn.net##div.PageHeadline
 lwn.net##table.Form
-lwn.net##td.LeftColumnj
+lwn.net##table.TopNavigation
+lwn.net##td.LeftColumn
 nytimes.com##div#masthead
 phoronix.com##div#phxcms_toplogo_phoronix
 phoronix.com##td#phxcms_content_left
