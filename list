@@ -1,13 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 7 days
-! Version: 1
+! Version: 2
 
 @@||a.thumbs.redditmedia.com^
 bbc.com##div#bbccookies
 dictionary.cambridge.org##div.cdo-header-container
 dictionary.cambridge.org##ul.notification-area
 eztv.it##div#header_logo
+eztv-proxy.net##div#header_logo
 ilfattoquotidiano.it##div#home_inner_header
 lwn.net##div.PageHeadline
 lwn.net##table.Form
