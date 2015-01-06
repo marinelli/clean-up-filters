@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 7 days
-! Version: 2
+! Version: 3
 
 @@||a.thumbs.redditmedia.com^
 bbc.com##div#bbccookies
@@ -14,6 +14,7 @@ lwn.net##div.PageHeadline
 lwn.net##table.Form
 lwn.net##table.TopNavigation
 lwn.net##td.LeftColumn
+mymovies.it##div#testata_dinamica
 nytimes.com##div#masthead
 phoronix.com##div#phxcms_toplogo_phoronix
 phoronix.com##td#phxcms_content_left
