@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 7 days
-! Version: 3
+! Version: 4
 
 @@||a.thumbs.redditmedia.com^
+##a[href^="http://li.blogtrottr.com/"]
 bbc.com##div#bbccookies
 dictionary.cambridge.org##div.cdo-header-container
 dictionary.cambridge.org##ul.notification-area
