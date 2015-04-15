@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
-! Expires: 7 days
-! Version: 6
+! Expires: 1 days
+! Version: 7
 
 ##a[href^="http://li.blogtrottr.com/"]
 @@||a.thumbs.redditmedia.com^
@@ -23,6 +23,7 @@ oxforddictionaries.com##div#popups
 phoronix.com##div#phxcms_toplogo_phoronix
 phoronix.com##td#phxcms_content_left
 reddit.com##div.infobar.welcome
+reddit.com##section.newsletterbar
 repubblica.it##div.bottom-navigation-container
 repubblica.it##div.logo-container
 sourceforge.net##div.truste-sf-banner
