@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 8
+! Version: 14
 
 ##a[href^="http://li.blogtrottr.com/"]
 @@||a.thumbs.redditmedia.com^
@@ -10,9 +10,6 @@ ansa.it##div#pg-slide
 bbc.com##div#bbccookies
 dictionary.cambridge.org##div.cdo-header-container
 dictionary.cambridge.org##ul.notification-area
-eztv.ch##div#header_logo
-eztv.it##div#header_logo
-eztv-proxy.net##div#header_logo
 ilfattoquotidiano.it##div#home_inner_header
 lwn.net##div.PageHeadline
 lwn.net##table.Form
