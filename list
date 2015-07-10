@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 14
+! Version: 16
 
 ##a[href^="http://li.blogtrottr.com/"]
 @@||a.thumbs.redditmedia.com^
