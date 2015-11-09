@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 16
+! Version: 17
 
 ##a[href^="http://li.blogtrottr.com/"]
 @@||a.thumbs.redditmedia.com^
@@ -26,6 +26,8 @@ sourceforge.net##div.truste-sf-banner
 theguardian.com##a.logo-wrapper
 theguardian.com##div#guardian-logo
 theguardian.com##div#weather-header
+theguardian.com##div.adblock-sticky__message
 theguardian.com##div.identity-noticebar
+theguardian.com##div.site-message
 usingenglish.com##div#header
 who.is##div#domain-buying-options
