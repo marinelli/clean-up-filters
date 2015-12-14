@@ -1,34 +1,23 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 18
+! Version: 19
 
-##a[href^="http://li.blogtrottr.com/"]
-@@||a.thumbs.redditmedia.com^
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
 bbc.com##div#bbccookies
 dictionary.cambridge.org##div.cdo-header-container
 dictionary.cambridge.org##ul.notification-area
-ilfattoquotidiano.it##div#home_inner_header
 internazionale.it##div#cookie_banner
-lwn.net##div.PageHeadline
-lwn.net##table.Form
-lwn.net##table.TopNavigation
-lwn.net##td.LeftColumn
-mymovies.it##div#testata_dinamica
-nytimes.com##div#masthead
 oxforddictionaries.com##div#popups
-reddit.com##div.infobar.welcome
+pogdesign.co.uk##div.cc_banner-wrapper
+reddit.com##form#eu-cookie-policy
 reddit.com##section.newsletterbar
 repubblica.it##div.bottom-navigation-container
 repubblica.it##div.logo-container
 sourceforge.net##div.truste-sf-banner
-theguardian.com##a.logo-wrapper
-theguardian.com##div#guardian-logo
-theguardian.com##div#weather-header
 theguardian.com##div.adblock-sticky__message
-theguardian.com##div.identity-noticebar
+theguardian.com##div.l-header-main
 theguardian.com##div.site-message
-usingenglish.com##div#header
+thenextweb.com##div.tnw-modal
 who.is##div#domain-buying-options
