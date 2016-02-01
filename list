@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 20
+! Version: 21
 
 ##div#cookieChoiceInfo.cookie-choices-info
 ansa.it##div#cookie-bar
@@ -20,6 +20,9 @@ ilmeteo.it##div.locsearch
 ilmeteo.it##div.page-rating-tool
 ilmeteo.it##div.share-tool
 internazionale.it##div#cookie_banner
+mobile.ilmeteo.it##div#banner-float
+mobile.ilmeteo.it##div#float-column
+mobile.ilmeteo.it##div.data-row-adv
 oxforddictionaries.com##div#popups
 pogdesign.co.uk##div.cc_banner-wrapper
 reddit.com##form#eu-cookie-policy
