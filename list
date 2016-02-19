@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 22
+! Version: 23
 
 ##div#cookieChoiceInfo.cookie-choices-info
 ansa.it##div#cookie-bar
@@ -34,6 +34,7 @@ repubblica.it##div.bottom-navigation-container
 repubblica.it##div.logo-container
 sourceforge.net##div.truste-sf-banner
 theguardian.com##div.adblock-sticky__message
+theguardian.com##div.js-adblock-sticky
 theguardian.com##div.l-header-main
 theguardian.com##div.site-message
 thenextweb.com##div.tnw-modal
