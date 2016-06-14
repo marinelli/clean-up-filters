@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 24
+! Version: 25
 
+ansa.it##div.ansa-pg
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
 bbc.com##div#bbccookies
