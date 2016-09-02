@@ -1,43 +1,39 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 25
+! Version: 26
 
-ansa.it##div.ansa-pg
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
 bbc.com##div#bbccookies
 bbc.co.uk##div#bbccookies
 blogspot.com##div#cookieChoiceInfo.cookie-choices-info
-dictionary.cambridge.org##div.cdo-header-container
-dictionary.cambridge.org##ul.notification-area
+dictionary.cambridge.org##ul.unstyled.notification.banner
+dictionary.cambridge.org##ul.unstyled.notification.popup
 googleblog.com##div#cookieChoiceInfo.cookie-choices-info
-ilmeteo.it##div#autonews
+ilmeteo.it##center.banner-centered
+ilmeteo.it##div#banner300-main
+ilmeteo.it##div#banner-app-full
 ilmeteo.it##div#banner-cookie
-ilmeteo.it##div#header
-ilmeteo.it##div.locsearch
-ilmeteo.it##div#newslinefull
+ilmeteo.it##div#banner-float
+ilmeteo.it##div.data-row-adv
+ilmeteo.it##div#home-page-right-box
+ilmeteo.it##div.newlang-tool
+ilmeteo.it##div#newscontainer
 ilmeteo.it##div#news-topbox
 ilmeteo.it##div.page-rating-tool
+ilmeteo.it##div#sharecontainer
 ilmeteo.it##div.share-tool
-ilmeteo.it##div#sidebar-social
+ilmeteo.it##div#sidebar-right
+ilmeteo.it##div#smartbanner
+ilmeteo.it##div#toolbar-social
+independent.co.uk##div#cookie-warning
 internazionale.it##div#cookie_banner
-mobile.ilmeteo.it##div#banner-app-full
-mobile.ilmeteo.it##div#banner-app-top
-mobile.ilmeteo.it##div#banner-float
-mobile.ilmeteo.it##div.data-row-adv
-mobile.ilmeteo.it##div#float-column
-mobile.ilmeteo.it##div#smartbanner
 oxforddictionaries.com##div#popups
-pogdesign.co.uk##div.cc_banner-wrapper
 reddit.com##form#eu-cookie-policy
 reddit.com##section.newsletterbar
-repubblica.it##div.bottom-navigation-container
 repubblica.it##div.logo-container
 sourceforge.net##div.truste-sf-banner
-theguardian.com##div.adblock-sticky__message
-theguardian.com##div.js-adblock-sticky
 theguardian.com##div.l-header-main
-theguardian.com##div.site-message
-thenextweb.com##div.tnw-modal
-who.is##div#domain-buying-options
+theguardian.com##div.site-message--adblock-message
+theguardian.com##div.site-message--cookies
