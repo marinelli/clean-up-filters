@@ -1,15 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 27
+! Version: 28
 
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
 bbc.com##div#bbccookies
 bbc.co.uk##div#bbccookies
 blogspot.com##div#cookieChoiceInfo.cookie-choices-info
+||cdn.iubenda.com^
+cnn.com##div.user-msg
 dictionary.cambridge.org##ul.unstyled.notification.banner
 dictionary.cambridge.org##ul.unstyled.notification.popup
+facebook.com##div.pam[data-testid="cookie-policy-banner"]
 googleblog.com##div#cookieChoiceInfo.cookie-choices-info
 ilmeteo.it##center.banner-centered
 ilmeteo.it##div#banner300-main
@@ -29,6 +32,7 @@ ilmeteo.it##div#smartbanner
 ilmeteo.it##div#toolbar-social
 independent.co.uk##div#cookie-warning
 internazionale.it##div#cookie_banner
+linkedin.com##div#global-alert-queue
 oxforddictionaries.com##div#popups
 reddit.com##form#eu-cookie-policy
 reddit.com##section.newsletterbar
@@ -39,3 +43,4 @@ sourceforge.net##div.truste-sf-banner
 theguardian.com##div.l-header-main
 theguardian.com##div.site-message--adblock-message
 theguardian.com##div.site-message--cookies
+twitter.com##div.Banner.eu-cookie-notice
