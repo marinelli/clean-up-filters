@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 28
+! Version: 29
 
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
@@ -10,6 +10,8 @@ bbc.co.uk##div#bbccookies
 blogspot.com##div#cookieChoiceInfo.cookie-choices-info
 ||cdn.iubenda.com^
 cnn.com##div.user-msg
+cnt.rm.ingv.it##div#cookie-bar
+cnt.rm.ingv.it##div#cookiebar_placeholder
 dictionary.cambridge.org##ul.unstyled.notification.banner
 dictionary.cambridge.org##ul.unstyled.notification.popup
 facebook.com##div.pam[data-testid="cookie-policy-banner"]
@@ -43,4 +45,5 @@ sourceforge.net##div.truste-sf-banner
 theguardian.com##div.l-header-main
 theguardian.com##div.site-message--adblock-message
 theguardian.com##div.site-message--cookies
+thenextweb.com##li.cookieConsent
 twitter.com##div.Banner.eu-cookie-notice
