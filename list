@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 31
+! Version: 32
 
+##div#cookieChoiceInfo
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
 bbc.co.uk##div#bbccookies
@@ -33,7 +34,7 @@ ilmeteo.it##div.page-rating-tool
 ilmeteo.it##div.share-tool
 independent.co.uk##div#cookie-warning
 internazionale.it##div#cookie_banner
-linkedin.com##div#global-alert-queue
+linkedin.com#div##artdeco-global-alert-container
 oxforddictionaries.com##div#popups
 politico.eu##div.alert-cookies
 reddit.com##form#eu-cookie-policy
