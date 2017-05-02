@@ -1,48 +1,50 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 32
+! Version: 33
 
-##div#cookieChoiceInfo
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
-bbc.co.uk##div#bbccookies
 bbc.com##div#bbccookies
+bbc.co.uk##div#bbccookies
 blogspot.com##div#cookieChoiceInfo.cookie-choices-info
+||cdn.iubenda.com^
 cnn.com##div.user-msg
 cnt.rm.ingv.it##div#cookie-bar
 cnt.rm.ingv.it##div#cookiebar_placeholder
 dictionary.cambridge.org##ul.unstyled.notification.banner
 dictionary.cambridge.org##ul.unstyled.notification.popup
+##div#cookieChoiceInfo
 facebook.com##div.pam[data-testid="cookie-policy-banner"]
 googleblog.com##div#cookieChoiceInfo.cookie-choices-info
 ilmeteo.it##center.banner-centered
+ilmeteo.it##div#banner300-main
 ilmeteo.it##div#banner-app-full
 ilmeteo.it##div#banner-cookie
 ilmeteo.it##div#banner-float
-ilmeteo.it##div#banner300-main
+ilmeteo.it##div.data-row-adv
 ilmeteo.it##div#home-page-right-box
-ilmeteo.it##div#news-topbox
+ilmeteo.it##div.newlang-tool
 ilmeteo.it##div#newscontainer
+ilmeteo.it##div#news-topbox
+ilmeteo.it##div.page-rating-tool
 ilmeteo.it##div#sharecontainer
+ilmeteo.it##div.share-tool
 ilmeteo.it##div#sidebar-right
 ilmeteo.it##div#smartbanner
 ilmeteo.it##div#toolbar-social
-ilmeteo.it##div.data-row-adv
-ilmeteo.it##div.newlang-tool
-ilmeteo.it##div.page-rating-tool
-ilmeteo.it##div.share-tool
 independent.co.uk##div#cookie-warning
 internazionale.it##div#cookie_banner
-linkedin.com#div##artdeco-global-alert-container
+linkedin.com##div#artdeco-global-alert-container
+linkedin.com##div#global-alert-queue
 oxforddictionaries.com##div#popups
 politico.eu##div.alert-cookies
 reddit.com##form#eu-cookie-policy
 reddit.com##section.newsletterbar
-repubblica.it##div#site-message
-repubblica.it##div.logo-container
-repubblica.it##div.top-header-wrapper
 repubblica.it##div[id^="adv-"]
+repubblica.it##div.logo-container
+repubblica.it##div#site-message
+repubblica.it##div.top-header-wrapper
 skype.com##div#cookiePolicy
 skype.com##div.notification.info
 sourceforge.net##div.truste-sf-banner
@@ -52,4 +54,3 @@ theguardian.com##div.site-message--cookies
 theguardian.com##div.site-message--membership-prominent
 thenextweb.com##li.cookieConsent
 twitter.com##div.Banner.eu-cookie-notice
-||cdn.iubenda.com^
