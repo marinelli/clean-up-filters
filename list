@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 33
+! Version: 35
 
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
@@ -16,6 +16,7 @@ dictionary.cambridge.org##ul.unstyled.notification.banner
 dictionary.cambridge.org##ul.unstyled.notification.popup
 ##div#cookieChoiceInfo
 facebook.com##div.pam[data-testid="cookie-policy-banner"]
+github.com##div.signup-prompt-bg
 googleblog.com##div#cookieChoiceInfo.cookie-choices-info
 ilmeteo.it##center.banner-centered
 ilmeteo.it##div#banner300-main
