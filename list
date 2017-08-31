@@ -1,13 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 35
+! Version: 36
 
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
 bbc.com##div#bbccookies
 bbc.co.uk##div#bbccookies
 blogspot.com##div#cookieChoiceInfo.cookie-choices-info
+cartasi.it##div#cl-banner
 ||cdn.iubenda.com^
 cnn.com##div.user-msg
 cnt.rm.ingv.it##div#cookie-bar
