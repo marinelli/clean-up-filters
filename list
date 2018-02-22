@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 38
+! Version: 39
 
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
@@ -18,6 +18,7 @@ dictionary.cambridge.org##ul.unstyled.notification.popup
 facebook.com##div.pam[data-testid="cookie-policy-banner"]
 github.com##div.signup-prompt-bg
 googleblog.com##div#cookieChoiceInfo.cookie-choices-info
+google.com##div#cnsh
 google.com##div#epbar
 ilmeteo.it##center.banner-centered
 ilmeteo.it##div#banner300-main
@@ -41,10 +42,13 @@ linkedin.com##div#artdeco-global-alert-container
 linkedin.com##div#global-alert-queue
 nexi.it##div#cl-banner
 oxforddictionaries.com##div#popups
+pec-email.com##div.cc-cookies
 politico.eu##div.alert-cookies
+raiplay.it##div.tagManagerError
 reddit.com##form#eu-cookie-policy
 reddit.com##section.infobar.listingsignupbar
 reddit.com##section.newsletterbar
+register.it##div.cc-cookies
 repubblica.it##div[id^="adv-"]
 repubblica.it##div.logo-container
 repubblica.it##div#site-message
@@ -57,5 +61,7 @@ theguardian.com##div.site-message--adblock-message
 theguardian.com##div.site-message--cookies
 theguardian.com##div.site-message--membership-prominent
 thenextweb.com##li.cookieConsent
+theregister.co.uk##div#RegCCO
 twitter.com##div.Banner.eu-cookie-notice
 whoishiring.io##div#cookies
+youtube.com##div#ticker
