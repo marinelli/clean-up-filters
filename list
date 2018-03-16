@@ -1,20 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 39
+! Version: 40
 
+||cdn.iubenda.com^
+##div#cookieChoiceInfo
 ansa.it##div#cookie-bar
 ansa.it##div#pg-slide
 bbc.com##div#bbccookies
 bbc.co.uk##div#bbccookies
 blogspot.com##div#cookieChoiceInfo.cookie-choices-info
-||cdn.iubenda.com^
 cnn.com##div.user-msg
 cnt.rm.ingv.it##div#cookie-bar
 cnt.rm.ingv.it##div#cookiebar_placeholder
 dictionary.cambridge.org##ul.unstyled.notification.banner
 dictionary.cambridge.org##ul.unstyled.notification.popup
-##div#cookieChoiceInfo
+facebook.com##div#pagelet_growth_expanding_cta
 facebook.com##div.pam[data-testid="cookie-policy-banner"]
 github.com##div.signup-prompt-bg
 googleblog.com##div#cookieChoiceInfo.cookie-choices-info
@@ -45,6 +46,7 @@ oxforddictionaries.com##div#popups
 pec-email.com##div.cc-cookies
 politico.eu##div.alert-cookies
 raiplay.it##div.tagManagerError
+raiplayradio.it##div.tagManagerError
 reddit.com##form#eu-cookie-policy
 reddit.com##section.infobar.listingsignupbar
 reddit.com##section.newsletterbar
