@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: clean-up filters
 ! Expires: 1 days
-! Version: 40
+! Version: 41
 
 ||cdn.iubenda.com^
 ##div#cookieChoiceInfo
@@ -67,3 +67,8 @@ theregister.co.uk##div#RegCCO
 twitter.com##div.Banner.eu-cookie-notice
 whoishiring.io##div#cookies
 youtube.com##div#ticker
+live.com###epb
+microsoft.com###epb
+office.com###epb
+fun-mooc.fr###cookie-banner
+mymovies.it###norm_cookies
